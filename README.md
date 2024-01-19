@@ -1,4 +1,4 @@
-# ANIL kUMAR MEDA
+# ANIL KUMAR MEDA
 ###### BOMMARILLU RESTAURANT
 Sinfully **creamy biryani** prepared with flavored rice.
 And paneer cooked in a **creamy masala served**.
