@@ -17,9 +17,9 @@ so,thst's y i liked most.
 
 --------------
 
-*Water Lake
-*pub
-*Shopping mall
-*Starbucks
+* Water Lake
+* pub
+* Shopping mall
+* Starbucks
 
 
