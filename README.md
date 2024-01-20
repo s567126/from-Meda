@@ -19,7 +19,7 @@ so,thst's y i liked most.
 * Shopping mall
 * Starbucks
 
-Check out my media in [MyMedia.md]("C:\Users\S567126\Desktop\Images\My pic in cool climate.jpg").
+Check out my media in [MyMedia.md](MyMedia.md).
 
 
 
