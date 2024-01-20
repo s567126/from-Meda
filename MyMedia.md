@@ -14,6 +14,9 @@ This table consists of four different books.Books often convey powerful messages
 |The Great Gatsby|Critiques the Jazz Age's excesses and the American Dream through Jay Gatsby's story.|F. Scott Fitzgerald|
 |One Hundred Years of Solitude|Magical realist epic chronicling the Buendía family's generations in the fictional town of Macondo.|Gabriel Garcia Marquez|
 |1984|Dystopian warning about totalitarianism and government surveillance in a bleak future.|George Orwell|
+
+-----------
+
 ## Liked quotes
 >"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - *Ralph Waldo Emerson*
 >"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." - *Albert Einstein*
