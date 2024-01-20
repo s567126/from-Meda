@@ -19,4 +19,7 @@ so,thst's y i liked most.
 * Shopping mall
 * Starbucks
 
+Check out my media in [MyMedia.md](MyMedia.md).
+
+
 
