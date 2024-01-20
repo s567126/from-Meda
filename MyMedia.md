@@ -12,5 +12,5 @@ This table consists of four different books.Books often convey powerful messages
 |----|----|----:|
 |To Kill a Mockingbird|Explores racial injustice in the 1930s American South through Scout Finch's perspective.|Harper Lee|
 |The Great Gatsby|Critiques the Jazz Age's excesses and the American Dream through Jay Gatsby's story.|F. Scott Fitzgerald|
-|One Hundred Years of Solitude|Magical realist epic chronicling the Buendía family's generations in the fictional town of Macondo.|Gabriel García Márquez|
+|One Hundred Years of Solitude|Magical realist epic chronicling the Buendía family's generations in the fictional town of Macondo.|Gabriel Garcia Marquez|
 |1984|Dystopian warning about totalitarianism and government surveillance in a bleak future.|George Orwell|
