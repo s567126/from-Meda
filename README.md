@@ -14,9 +14,6 @@ so,thst's y i liked most.
 5. Chicken Butter Masala
 
 ## Places visit
-
---------------
-
 * Water Lake
 * pub
 * Shopping mall
