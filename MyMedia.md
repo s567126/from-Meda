@@ -18,6 +18,6 @@ This table consists of four different books.Books often convey powerful messages
 -----------
 
 ## Liked quotes
->"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - *Ralph Waldo Emerson*
->"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." - *Albert Einstein*
->"The future belongs to those who believe in the beauty of their dreams." - *Eleanor Roosevelt*
+>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. - *Ralph Waldo Emerson*<br>
+>Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. - *Albert Einstein*<br>
+>The future belongs to those who believe in the beauty of their dreams. - *Eleanor Roosevelt*<br>
