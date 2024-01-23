@@ -23,3 +23,24 @@ This table consists of four different books.Books often convey powerful messages
 >"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe". - *Albert Einstein*<br>
 
 >"The future belongs to those who believe in the beauty of their dreams". - *Eleanor Roosevelt*<br>
+
+---------------
+
+## Code Fencing
+This Snippet Shows how to call a Conditional Function Using Dart Source Code
+```
+void func1(){
+ print("func 1 called");
+}
+
+void func2(){
+ print("func 2 called");
+}
+
+void main() {
+ const someValue = 3;
+ (someValue == 4? func1 : func2)();
+}
+
+```
+[Link to the snippet is:](https://code.pieces.app/collections/dart)
