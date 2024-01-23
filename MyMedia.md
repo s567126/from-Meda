@@ -43,4 +43,4 @@ void main() {
 }
 
 ```
-[Link to the snippet is:](https://code.pieces.app/collections/dart)
+![Link to the snippet is:](https://code.pieces.app/collections/dart)
